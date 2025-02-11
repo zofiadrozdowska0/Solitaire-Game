@@ -13,10 +13,10 @@ int gameState = 0; // 0 - nierozpoczeta, 1 - w trakcie
 class Card
 {
 private:
-    string value;  //string bo musi wypisywać dziesiątki
+    string value; 
     string colour;
     bool faceUp = true;
-    bool isCovered = false; //jeszcze nie uzywałam ale pewnie sie przyda przy przenoszeniu kolumn kart
+    bool isCovered = false; 
     string lowerValueVector;
     string lowerColourVector[2];
     string lowerValueStack;
