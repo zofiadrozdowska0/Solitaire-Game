@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\sophi\Desktop\paszjans\paszjans\</FILEPATH>
+      <FILENAME>paszjans.cpp</FILENAME>
+      <LINE>227</LINE>
+      <COLUMN>35</COLUMN>
+    </SFA>
+    <DEFECTCODE>6201</DEFECTCODE>
+    <DESCRIPTION>Indeks „51” jest poza prawidłowym zakresem od „0” do „3” dla buforu „colour” znajdującego się być może na stosie.</DESCRIPTION>
+    <FUNCTION>fillDeck</FUNCTION>
+    <DECORATED>?fillDeck@@YAXQAVCard@@@Z</DECORATED>
+    <FUNCLINE>220</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT></DEFECTS>
